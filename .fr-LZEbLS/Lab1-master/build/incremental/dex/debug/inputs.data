@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378999936000 446 cf21bbf3a521bf479ec85a26b714c7f04e6d4edd /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$drawable.class
+1378999936000 807 81fa4fb6de181036335c2603e61ead04b0eefd61 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R.class
+1378999936000 379 6a451aebaac431c1d1da60c018b49a6e36767027 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$attr.class
+1378999936000 470 9d45f1871c06e914fe957f7f3ddddbce9736c8ca /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$style.class
+1378955209000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /opt/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
+1378999936000 1137 503ef768e8fa3447cfb5d1dd96e75576536ac3e9 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/TextAdapter$1.class
+1378999936000 631 587360c12797e17ed80d07ac818078a922645161 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$id.class
+1378999936000 2295 e0b8ca71dee03d08ee0b4a96ccacb33b8a6c0fce /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/TextAdapter.class
+1378999936000 371 fe2d7f9b61896c9e97b6a900aaca644e0ba82d52 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/BuildConfig.class
+1378999936000 580 fe058654c9b501090cc1fcfaa51d88a200141725 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$string.class
+1379000077000 1800 67fc336571b55417b76dede7f1959c6193dbf7f7 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/ToDoActivity.class
+1379000077000 1359 bb1dbb70b011302eb03e0b5f40e9b68c1a917a1f /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/ToDoActivity$1.class
+1378999936000 456 a9681a9101b78b1e3b5f15d4c84729c691b29611 /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$menu.class
+1378999936000 474 7ceea5d019cbe5cf9a5c29b43bfa072f4ce4aa2b /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$layout.class
+1378999936000 500 fa4d874173dbb1c37067854d383275c1451168cd /home/chris/Documents/2013Fall/mobproto/Lab1/build/classes/debug/com/evansimpson/mobpro/ToDoList/R$dimen.class

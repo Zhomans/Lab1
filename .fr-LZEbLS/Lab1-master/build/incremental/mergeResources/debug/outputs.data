@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378999859000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1378999859000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1378999859000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1378999859000 2067 ca8694afa5aa678ac95c7b974d574a508f0a1c84 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/layout/todolist.xml
+1378999859000 336 eb5174cea71591d3bd03cc8f1d49097c984853da /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/menu/first.xml
+1378999859000 238 fb3198ff186173d159dc68d6082baba9be510e26 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/values-sw720dp-land/values.xml
+1378999859000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1378999859000 301 32d585530e69a2d246a9a375a68b6f4b0fd52fa3 /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/values-v11/values.xml
+1378999859000 335 97bdbdd3dbe3e5c479c61a7f9c99502d3129ee7a /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/menu/main.xml
+1378999859000 301 4510ffd998d5150568d1a706e859afe42bf812bb /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/values-v14/values.xml
+1378999859000 1169 fcec26542ae7a9cf19f5f0bce7b9d52e203c6bbb /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/values/values.xml
+1378999859000 1286 a56092d4e672968bbfa66531a79876fe94970a8b /home/chris/Documents/2013Fall/mobproto/Lab1/build/res/all/debug/layout/list_row_view.xml
